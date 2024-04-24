@@ -53,7 +53,9 @@ For our second problem definition, from our analysis, we see that the random for
 ### 6. Reference
 1. S. Naeem, “Laptop sales price prediction 2024,” Kaggle. https://www.kaggle.com/datasets/siddiquifaiznaeem/laptop-sales-price-prediction-dataset-2024
 2. A. Jayant, “Forecasting Laptop Costs: A Machine Learning Approach,” Medium, Nov. 24, 2023. https://medium.com/@aniketjayant953/forecasting-laptop-costs-a-machine-learning-approach-3dbcf9bbf5c6.
-3. “Laptop-Price-Prediction/model/model.ipynb at main · LuluW8071/Laptop-Price-Prediction,” GitHub. https://github.com/LuluW8071/Laptop-Price-Prediction/blob/main/model/model.ipynb.  
+3. “Laptop-Price-Prediction/model/model.ipynb at main · LuluW8071/Laptop-Price-Prediction,” GitHub. https://github.com/LuluW8071/Laptop-Price-Prediction/blob/main/model/model.ipynb.
+4. E. R. Sruthi, “Random Forest | Introduction to Random Forest Algorithm,” Analytics Vidhya, Jun. 17, 2021. https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
+5. “Voting in Machine Learning,” GeeksforGeeks, Jan. 08, 2024. https://www.geeksforgeeks.org/voting-in-machine-learning/
 
 ## Contributors
 School of Computer Science and Engineering, NTU Singapore\

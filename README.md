@@ -56,7 +56,9 @@ For our second problem definition, from our analysis, we see that the random for
 3. “Laptop-Price-Prediction/model/model.ipynb at main · LuluW8071/Laptop-Price-Prediction,” GitHub. https://github.com/LuluW8071/Laptop-Price-Prediction/blob/main/model/model.ipynb.
 4. E. R. Sruthi, “Random Forest | Introduction to Random Forest Algorithm,” Analytics Vidhya, Jun. 17, 2021. https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
 5. “Voting Regressor,” GeeksforGeeks, Oct. 25, 2023. https://www.geeksforgeeks.org/voting-regressor/
-6. “Python Machine Learning Multiple Regression,” www.w3schools.com. https://www.w3schools.com/python/python_ml_multiple_regression.asp    
+6. “Python Machine Learning Multiple Regression,” www.w3schools.com. https://www.w3schools.com/python/python_ml_multiple_regression.asp
+7. D. Yadav, “Categorical encoding using Label-Encoding and One-Hot-Encoder,” Medium, Dec. 09, 2019. https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
+8. “Folium — Folium 0.1.dev1+g57e8eae documentation,” python-visualization.github.io. https://python-visualization.github.io/folium/latest/
 
 ## Contributors
 School of Computer Science and Engineering, NTU Singapore\

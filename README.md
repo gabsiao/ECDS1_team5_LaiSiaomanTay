@@ -22,11 +22,11 @@ This dataset contains information about various laptops, including specification
 * Which model would be the best to predict laptop price?
 
 ### 2. Data Preparation and Cleaning
-In this section of the project, we prepped and cleaned the dataset to help us analyze our data better and also to help us use our data for the purposes of machine learning in the later sections.
-We performed the following:
-**Preliminary Feature Selection:** 22 variables out of 26 were selected.
-**Dropping NaNs:** All the rows containing NaN values were dropped.
-**Currency Changing:** Convert the currency from INR to SGD
+In this section of the project, we prepped and cleaned the dataset to help us analyze our data better and also to help us use our data for the purposes of machine learning in the later sections.  
+We performed the following:  
+**Preliminary Feature Selection:** 22 variables out of 26 were selected.  
+**Dropping NaNs:** All the rows containing NaN values were dropped.  
+**Currency Changing:** Convert the currency from INR to SGD  
 
 
 ### 3. Exploratory Data Analysis

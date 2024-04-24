@@ -67,6 +67,6 @@ AY2023/24 SC1015 ECDS1 Group 5
 * GABRIELLA SIAOMAN GABR0031@E.NTU.EDU.SG
     (EDA Categorical Variable, Linear Regression)
 * TAY JIAN YUAN JTAY090@E.NTU.EDU.SG
-    (Data Cleaning and Preparation, Voting Regressor)
+    (Data Cleaning and Preparation, Voting Regressor, Price Predictor)
 * LAI LI SONG LLAI005@E.NTU.EDU.SG
     (EDA Numerical Variables, Random Forest)

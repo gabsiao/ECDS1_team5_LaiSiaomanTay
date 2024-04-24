@@ -30,8 +30,8 @@ We performed the following:
 
 
 ### 3. Exploratory Data Analysis
-Then, we explored our data frames further using Exploratory Data Analysis to explore the relationship between variables and  decided which predictors to use.
-**Exploring Response Variable `Price`:** Median of around $1310 was seen. Data is positively skewed.
+Then, we explored our data frames further using Exploratory Data Analysis to explore the relationship between variables and decide which predictors to use.
+**Exploring Response Variable `Price`:** Median of around $1027 was seen. Data is positively skewed.
 **Exploring Numerical Variable:** 3 numeric variables with higher correlation with `Price` were chosen to be the predictors.
 **Exploring Categorical Variable:** 3 categorical variables were chosen to be the predictors.
 **Encoding Categorical Variables:** The categorical variables in both the DataFrames were encoded appropriately.

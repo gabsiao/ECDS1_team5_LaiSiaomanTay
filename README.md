@@ -64,6 +64,9 @@ For our second problem definition, from our analysis, we see that the random for
 School of Computer Science and Engineering, NTU Singapore\
 AY2023/24 SC1015 ECDS1 Group 5
 
-* GABRIELLA SIAOMAN GABR0031@E.NTU.EDU.SG 
+* GABRIELLA SIAOMAN GABR0031@E.NTU.EDU.SG
+    (EDA Categorical Variable, Linear Regression)
 * TAY JIAN YUAN JTAY090@E.NTU.EDU.SG
+    (Data Cleaning and Preparation, Voting Regressor)
 * LAI LI SONG LLAI005@E.NTU.EDU.SG
+    (EDA Numerical Variables, Random Forest)
